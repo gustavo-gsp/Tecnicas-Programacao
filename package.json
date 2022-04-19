@@ -1,0 +1,19 @@
+{
+  "name": "tecnicas-programacao",
+  "version": "1.0.0",
+  "description": "tecnicas programacao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavo-gsp/Tecnicas-Programacao.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavo-gsp/Tecnicas-Programacao/issues"
+  },
+  "homepage": "https://github.com/gustavo-gsp/Tecnicas-Programacao#readme"
+}
