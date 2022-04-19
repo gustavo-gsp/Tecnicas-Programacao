@@ -1,0 +1,2 @@
+1git credential-cache exit
+2git config --system -- unset credencial.helper
